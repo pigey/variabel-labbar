@@ -29,6 +29,6 @@ public final class App {
         Lab5 lab5 = new Lab5();
         lab5.Execute();
 
-        System.out.println("Hello world");
+        System.out.println("Hello worlds");
     }
 }
